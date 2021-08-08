@@ -1,5 +1,5 @@
 #!/bin/env python3
-# code by : Termux Professor
+# code by : Dami
 
 """
 
@@ -20,8 +20,8 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}Subscribe Termux Professor on Youtube
-	{cy}www.youtube.com/c/TermuxProfessorYT
+	{re}Subscribe Dami on Youtube
+	{cy}www.youtube.com/c/Dami
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
